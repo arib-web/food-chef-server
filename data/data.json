@@ -1,0 +1,280 @@
+{
+   "chefs":[
+    {
+      "id": 1,
+      "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.1.1896889893.1665354643&semt=sph",
+      "chef_name": "Sofia Martinez",
+      "years_of_experience": 15,
+      "num_of_recipes": 80,
+      "likes": 9000,
+      "recipes": [
+        {
+          "recipe_name": "Empanadas",
+          "ingredients": [
+            "flour",
+            "ground beef",
+            "onion",
+            "green bell pepper",
+            "egg"
+          ],
+          "cooking_method": "1. In a bowl, combine flour and salt. 2. Add water gradually, and mix to form dough. 3. Brown ground beef with onion and green bell pepper. 4. Roll out dough and cut into circles. 5. Add ground beef mixture and fold over. 6. Brush with egg and bake at 350°F for 15-20 minutes.",
+          "rating": 4.9
+        },
+        {
+          "recipe_name": "Chimichurri Steak",
+          "ingredients": [
+            "sirloin steak",
+            "garlic",
+            "parsley",
+            "oregano",
+            "red wine vinegar"
+          ],
+          "cooking_method": "1. In a food processor, blend garlic, parsley, oregano, and red wine vinegar. 2. Season sirloin steak with salt and pepper. 3. Grill steak to desired doneness. 4. Top with chimichurri sauce.",
+          "rating": 4.6
+        },
+        {
+          "recipe_name": "Tres Leches Cake",
+          "ingredients": [
+            "flour",
+            "sugar",
+            "eggs",
+            "baking powder",
+            "evaporated milk"
+          ],
+          "cooking_method": "1. Beat eggs and sugar until fluffy. 2. Add flour and baking powder, and mix well. 3. Pour mixture into greased baking pan and bake at 350°F for 30-35 minutes. 4. Combine evaporated milk, sweetened condensed milk, and heavy cream. 5. Pour mixture over cake while still warm.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?size=626&ext=jpg&ga=GA1.1.1896889893.1665354643&semt=sph",
+      "chef_name": "Jane Smith",
+      "years_of_experience": 5,
+      "num_of_recipes": 20,
+      "likes": 2000,
+      "recipes": [
+        {
+          "recipe_name": "Spaghetti Carbonara",
+          "ingredients": [
+            "spaghetti",
+            "guanciale",
+            "pecorino cheese",
+            "egg yolks",
+            "black pepper"
+          ],
+          "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a pan, sauté guanciale until crispy. 3. Beat egg yolks and grated pecorino cheese in a bowl. 4. Add cooked spaghetti to the pan with guanciale and toss with the egg mixture. 5. Add black pepper to taste.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Pizza Margherita",
+          "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "basil",
+            "olive oil"
+          ],
+          "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a floured surface. 3. Spread tomato sauce over the dough, leaving a small border. 4. Add sliced mozzarella cheese and sprinkle with chopped basil. 5. Drizzle with olive oil. 6. Bake for 12-15 minutes or until crust is golden brown.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Grilled Chicken with Roasted Vegetables",
+          "ingredients": [
+            "chicken breast",
+            "zucchini",
+            "bell pepper",
+            "red onion",
+            "olive oil"
+          ],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush chicken breast with olive oil and season with salt and pepper. 3. Grill chicken for 6-8 minutes per side, or until cooked through. 4. In a separate pan, roast sliced zucchini, bell pepper, and red onion with olive oil and salt for 20-25 minutes. 5. Serve chicken with roasted vegetables.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chef_picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?size=626&ext=jpg&ga=GA1.1.1896889893.1665354643&semt=sph",
+      "chef_name": "Bob Johnson",
+      "years_of_experience": 15,
+      "num_of_recipes": 80,
+      "likes": 10000,
+      "recipes": [
+        {
+          "recipe_name": "Empanadas",
+          "ingredients": [
+            "flour",
+            "ground beef",
+            "onion",
+            "green bell pepper",
+            "egg"
+          ],
+          "cooking_method": "1. In a bowl, combine flour and salt. 2. Add water gradually, and mix to form dough. 3. Brown ground beef with onion and green bell pepper. 4. Roll out dough and cut into circles. 5. Add ground beef mixture and fold over. 6. Brush with egg and bake at 350°F for 15-20 minutes.",
+          "rating": 4.9
+        },
+        {
+          "recipe_name": "Chimichurri Steak",
+          "ingredients": [
+            "sirloin steak",
+            "garlic",
+            "parsley",
+            "oregano",
+            "red wine vinegar"
+          ],
+          "cooking_method": "1. In a food processor, blend garlic, parsley, oregano, and red wine vinegar. 2. Season sirloin steak with salt and pepper. 3. Grill steak to desired doneness. 4. Top with chimichurri sauce.",
+          "rating": 4.6
+        },
+        {
+          "recipe_name": "Tres Leches Cake",
+          "ingredients": [
+            "flour",
+            "sugar",
+            "eggs",
+            "baking powder",
+            "evaporated milk"
+          ],
+          "cooking_method": "1. Beat eggs and sugar until fluffy. 2. Add flour and baking powder, and mix well. 3. Pour mixture into greased baking pan and bake at 350°F for 30-35 minutes. 4. Combine evaporated milk, sweetened condensed milk, and heavy cream. 5. Pour mixture over cake while still warm.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chef_picture": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?size=626&ext=jpg&ga=GA1.1.1896889893.1665354643&semt=sph",
+      "chef_name": "Sarah Lee",
+      "years_of_experience": 8,
+      "num_of_recipes": 30,
+      "likes": 3000,
+      "recipes": [
+        {
+          "recipe_name": "Chimichurri Steak",
+          "ingredients": [
+            "sirloin steak",
+            "garlic",
+            "parsley",
+            "oregano",
+            "red wine vinegar"
+          ],
+          "cooking_method": "1. In a food processor, blend garlic, parsley, oregano, and red wine vinegar. 2. Season sirloin steak with salt and pepper. 3. Grill steak to desired doneness. 4. Top with chimichurri sauce.",
+          "rating": 4.6
+        },
+        {
+          "recipe_name": "Tres Leches Cake",
+          "ingredients": [
+            "flour",
+            "sugar",
+            "eggs",
+            "baking powder",
+            "evaporated milk"
+          ],
+          "cooking_method": "1. Beat eggs and sugar until fluffy. 2. Add flour and baking powder, and mix well. 3. Pour mixture into greased baking pan and bake at 350°F for 30-35 minutes. 4. Combine evaporated milk, sweetened condensed milk, and heavy cream. 5. Pour mixture over cake while still warm.",
+          "rating": 4.8
+        },
+        {
+          "recipe_name": "Pesto Pasta",
+          "ingredients": [
+            "pasta",
+            "basil",
+            "garlic",
+            "parmesan cheese",
+            "olive oil"
+          ],
+          "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, blend basil, garlic, parmesan cheese, and olive oil until smooth. 3. Drain pasta and toss with the pesto sauce.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.1.1896889893.1665354643&semt=sph",
+      "chef_name": "David Kim",
+      "years_of_experience": 12,
+      "num_of_recipes": 60,
+      "likes": 7000,
+      "recipes": [
+        {
+          "recipe_name": "Pesto Pasta",
+          "ingredients": [
+            "pasta",
+            "basil",
+            "garlic",
+            "parmesan cheese",
+            "olive oil"
+          ],
+          "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, blend basil, garlic, parmesan cheese, and olive oil until smooth. 3. Drain pasta and toss with the pesto sauce.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Grilled Chicken with Roasted Vegetables",
+          "ingredients": [
+            "chicken breast",
+            "zucchini",
+            "bell pepper",
+            "red onion",
+            "olive oil"
+          ],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush chicken breast with olive oil and season with salt and pepper. 3. Grill chicken for 6-8 minutes per side, or until cooked through. 4. In a separate pan, roast sliced zucchini, bell pepper, and red onion with olive oil and salt for 20-25 minutes. 5. Serve chicken with roasted vegetables.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Classic Caesar Salad",
+          "ingredients": [
+            "romaine lettuce",
+            "parmesan cheese",
+            "croutons",
+            "lemon",
+            "garlic"
+          ],
+          "cooking_method": "1. In a bowl, mix together minced garlic, lemon juice, and grated parmesan cheese. 2. Add olive oil to the mixture and whisk until emulsified. 3. Toss the romaine lettuce and croutons with the dressing. 4. Serve topped with additional grated parmesan cheese.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chef_picture": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?size=626&ext=jpg&ga=GA1.1.1896889893.1665354643&semt=sph",
+      "chef_name": "Maria Rodriguez",
+      "years_of_experience": 6,
+      "num_of_recipes": 25,
+      "likes": 1500,
+      "recipes": [
+        {
+          "recipe_name": "Spaghetti Carbonara",
+          "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "eggs",
+            "pecorino cheese",
+            "black pepper"
+          ],
+          "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a skillet, cook diced pancetta until crisp. 3. In a bowl, whisk eggs, grated pecorino cheese, and black pepper. 4. Drain spaghetti and toss with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to avoid scrambling the eggs. Serve immediately.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Margherita Pizza",
+          "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "fresh basil",
+            "extra-virgin olive oil"
+          ],
+          "cooking_method": "1. Preheat oven to 450°F. 2. Stretch the pizza dough to desired size and thickness. 3. Spread tomato sauce over the dough, leaving a small border around the edge. 4. Top with shredded mozzarella cheese and fresh basil. 5. Drizzle with extra-virgin olive oil. 6. Bake in preheated oven for 10-15 minutes, or until crust is golden brown and cheese is melted and bubbly.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Tiramisu",
+          "ingredients": [
+            "ladyfingers",
+            "mascarpone cheese",
+            "eggs",
+            "sugar",
+            "espresso coffee"
+          ],
+          "cooking_method": "1. Brew a strong espresso coffee and let it cool. 2. In a bowl, whisk egg yolks and sugar until light and creamy. 3. Add mascarpone cheese to the egg mixture and whisk until smooth. 4. In a separate bowl, beat egg whites until stiff peaks form. 5. Fold the egg whites into the mascarpone mixture. 6. Dip ladyfingers into the cooled espresso coffee and arrange them in a single layer in a serving dish. 7. Spread half of the mascarpone mixture over the ladyfingers. 8. Repeat with another layer of ladyfingers and mascarpone mixture. 9. Chill in the refrigerator for at least 2 hours before serving.",
+          "rating": 4.9
+        }
+      ]
+    }
+   ]
+}
